@@ -10,7 +10,6 @@ https://docs.unity3d.com/ScriptReference/AudioSource-clip.html
 
 public class Audio : MonoBehaviour
 {
-    public AudioClip introBgm;
     public AudioClip normalBgm;
     // Start is called before the first frame update
     IEnumerator Start()
