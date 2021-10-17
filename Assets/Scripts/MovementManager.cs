@@ -30,5 +30,6 @@ public class MovementManager : MonoBehaviour
         }
         **/
         transform.position = Vector3.Lerp(currentPos, posOne, Time.time);
+        this.enabled = false;
     }
 }
