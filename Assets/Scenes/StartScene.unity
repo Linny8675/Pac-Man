@@ -385,7 +385,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -215, y: 0.48055}
+  m_AnchoredPosition: {x: -182.82, y: 0.48055}
   m_SizeDelta: {x: 34.3611, y: 34.3611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &167427579
@@ -539,7 +539,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 215, y: 0.48055}
+  m_AnchoredPosition: {x: 180.64, y: 0.00000080466}
   m_SizeDelta: {x: 34.3611, y: 34.3611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &313620800
@@ -1133,7 +1133,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The Frogs, The Flies and The Fiends
+  m_Text: The Frogs, Flies and Fiends
 --- !u!222 &710947171
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1720,7 +1720,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 314, y: 0.48056}
+  m_AnchoredPosition: {x: 290.7, y: 0.48056}
   m_SizeDelta: {x: 34.3611, y: 34.3611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1347174529

@@ -22,4 +22,10 @@ public class UIManager : MonoBehaviour
         //DontDestroyOnLoad(this);
         SceneManager.LoadScene("GameLevel");
     }
+
+    public void loadMenu()
+    {
+        //DontDestroyOnLoad(this);
+        SceneManager.LoadScene("StartScene");
+    }
 }
